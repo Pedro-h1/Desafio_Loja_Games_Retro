@@ -84,63 +84,6 @@
 | 🧩 Elementos | Lista, links, imagem e tabela |
 | 🎯 Foco | Funcionalidade sobre aparência |
 
-</div>
-
----
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6C63FF&center=true&vCenter=true&width=750&lines=🏆+Crit%C3%A9rios+de+Avalia%C3%A7%C3%A3o" /></div>
-
-<div align="center">
-  <p>✅ Respeitar o limite de <strong>50 linhas</strong>.</p>
-  <p>✅ Implementar os <strong>5 elementos essenciais</strong>.</p>
-  <p>✅ Manter o código <strong>limpo e organizado</strong>.</p>
-  <p>✅ Garantir a <strong>funcionalidade dos links</strong>.</p>
-  <p>✅ Utilizar uma <strong>estrutura HTML válida</strong>.</p>
-</div>
-
----
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6C63FF&center=true&vCenter=true&width=750&lines=📁+Estrutura+do+Projeto" /></div>
-
-<div align="center">
-
-```
-Desafio_Loja_Games_Retro/
-├── loja_games_retro_desafio/
-│   ├── index.html
-│   └── retro.jpg
-└── README.md
-```
-
-</div>
-
----
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6C63FF&center=true&vCenter=true&width=750&lines=💻+Arquivo+Principal" /></div>
-
-<div align="center">
-  <p>
-    📄 <strong><a href="https://github.com/Pedro-h1/Desafio_Loja_Games_Retro/blob/main/loja_games_retro_desafio/index.html">index.html</a></strong>
-  </p>
-</div>
-
----
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6C63FF&center=true&vCenter=true&width=750&lines=💡+Dicas+e+Bonus" /></div>
-
-<div align="center">
-  <p>💡 Escolher apenas uma lista já é suficiente para cumprir o requisito.</p>
-  <p>🎨 Emojis podem ser utilizados para dar personalidade à página.</p>
-  <p>🔗 O link de navegação interna deve ser testado para garantir seu funcionamento.</p>
-  <p>🏆 Implementar todos os requisitos em menos de 50 linhas é o desafio extra de concisão.</p>
-</div>
-
----
-
-<div align="center">
-  <p><strong>Boa sorte, desenvolvedor! Que a força dos pixels esteja com você! 🕹️</strong></p>
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=6C63FF&animation=fadeIn" width="100%" />
 </div>
