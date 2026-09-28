@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6C63FF&text=🎮+ATIVIDADE+AULA+5&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🕹️+Mini+Desafio+HTML+-+Loja+de+Games+Retro&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=6C63FF&text=🎮+ATIVIDADE+AULA+5&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🕹️+Mini+Desafio+HTML+-+Loja+de+Games+Retrô&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=6C63FF&center=true&vCenter=true&width=750&lines=📘+Sobre+a+Atividade" /></div>
