@@ -1,18 +1,17 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:B93D1F&text=🎮+ATIVIDADE+AULA+5&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🕹️+Mini+Desafio+HTML+-+Loja+de+Games+Retrô&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=🎮+ATIVIDADE+AULA+5&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=🕹️+Mini+Desafio+HTML+-+Loja+de+Games+Retrô&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📘+Sobre+a+Atividade" />
 </div>
 <div align="center">
     <p>
-    📌 Atividade prática de <strong>HTML</strong> com foco na criação de uma página promocional para a
-    <strong>GameZone Retro</strong>, uma loja especializada em <strong>jogos clássicos e consoles retrô</strong>.
+        <p>📌 Atividade prática de <strong>HTML</strong> com foco na criação de uma página promocional para a</p>
+        <strong>GameZone Retro</strong>, uma loja especializada em <strong>jogos clássicos e consoles retrô</strong>.
     </p>
     <p>
-    🎮 O desafio foi desenvolvido utilizando <strong>HTML puro e simples</strong>, demonstrando conceitos
-    de <strong>estrutura de páginas</strong>, <strong>listas</strong>, <strong>links</strong>,
-    <strong>imagens</strong> e <strong>tabelas</strong>.
+        <p>🎮 O desafio foi desenvolvido utilizando <strong>HTML puro e simples</strong>, demonstrando conceitos de <strong>estrutura de páginas</strong>, <strong>listas</strong>, <strong>links</strong>,</p>
+        <strong>imagens</strong> e <strong>tabelas</strong>.
     </p>
 </div>
 
@@ -23,12 +22,10 @@
 </div>
 <div align="center">
     <p>
-    🎯 Criar uma página HTML de <strong>no máximo 50 linhas</strong> que apresente uma loja de games retrô
-    de maneira <strong>organizada</strong>, <strong>compacta</strong> e <strong>funcional</strong>.
+        <p>🎯 Criar uma página HTML de <strong>no máximo 50 linhas</strong> que apresente uma loja de games retrô de maneira <strong>organizada</strong>, <strong>compacta</strong> e <strong>funcional</strong>.</p>
     </p>
     <p>
-    💡 O foco da atividade é priorizar a <strong>funcionalidade sobre a aparência</strong>,
-    utilizando os principais elementos essenciais do HTML.
+        <p>💡 O foco da atividade é priorizar a <strong>funcionalidade sobre a aparência</strong>, utilizando os principais elementos essenciais do HTML.</p>
     </p>
 </div>
 
@@ -66,11 +63,11 @@
 </div>
 <div align="center">
 
-    | Jogo | Console | Preço |
-    |---|---|---:|
-    | Super Mario Bros | NES | R$ 85,00 |
-    | Sonic | Genesis | R$ 70,00 |
-    | Zelda | NES | R$ 120,00 |
+| Jogo | Console | Preço |
+|---|---|---:|
+| Super Mario Bros | NES | R$ 85,00 |
+| Sonic | Genesis | R$ 70,00 |
+| Zelda | NES | R$ 120,00 |
 
 </div>
 
@@ -81,16 +78,16 @@
 </div>
 <div align="center">
 
-    | Especificação | Implementação |
-    |---|---|
-    | 💻 Linguagem | HTML puro |
-    | 📏 Limite | Máximo de 50 linhas |
-    | 🎮 Tema | Loja de games retrô |
-    | 🧩 Elementos | Lista, links, imagem e tabela |
-    | 🎯 Foco | Funcionalidade sobre aparência |
+| Especificação | Implementação |
+|---|---|
+| 💻 Linguagem | HTML puro |
+| 📏 Limite | Máximo de 50 linhas |
+| 🎮 Tema | Loja de games retrô |
+| 🧩 Elementos | Lista, links, imagem e tabela |
+| 🎯 Foco | Funcionalidade sobre aparência |
 
 </div>
 
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:B93D1F,100:E34F26&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F06529,100:E34F26&animation=fadeIn" width="100%" />
 </div>
